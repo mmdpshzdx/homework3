@@ -1,0 +1,122 @@
+.background {
+background-image: url("media/background2.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+height: 730vh;
+background-attachment: fixed;
+}
+#name {
+ text-align:center;
+ color: white;
+ font-family: 'Courier New', Courier, monospace;
+ padding: 20px 50px 50px 50px; 
+ background-image: url("media/background1.jpg");
+ margin: 0;
+}
+p {
+     color: darkgreen;
+     text-align: center;
+     padding: 0px 100px 30px 100px;
+     font-family:'Courier New', Courier, monospace;
+     font-size: x-large
+ }
+ #introduction {
+     text-align: center;
+     padding: 30px 10px 30px 10px;
+     font-size: 30px;
+ }
+ h2 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+ }
+    #mammad {
+        color:white;
+        font-size:30px;
+        border:5px solid rgb(0, 110, 0);
+        margin: 50px 500px;        
+        text-align:center;
+        background-image: url("media/background1.jpg"); 
+    }
+    #javidan {
+        color:white;
+        font-size:30px;
+        border:5px solid rgb(0, 110, 0);
+        margin: 50px 500px;        
+        text-align:center;
+        background-image: url("media/background1.jpg");        
+    }
+    #khavar {
+        color:white;
+        font-size:30px;
+        border:5px solid rgb(0, 110, 0);
+        margin: 50px 500px;        
+        text-align:center;
+        background-image: url("media/background1.jpg");        
+    }
+    #sinan {
+        color:white;
+        font-size:30px;
+        border:5px solid rgb(0, 110, 0);
+        margin: 50px 500px;        
+        text-align:center;
+        background-image: url("media/background1.jpg");  
+    }      
+   #event {
+        text-align: center;
+        padding: 150px 10px 30px 10px;
+        font-size: 30px;
+    }  
+    img {
+        width: 550px;
+        padding: 0px 10px 0px 800px;
+    }
+    #first {
+        text-align: left;
+        padding: 50px 750px 30px 30px;
+    }
+    #second {
+        text-align: right;
+        padding: 50px 30px 30px 750px;
+    }
+    #img1 {
+    text-align: left;
+    padding: 0px 750px 10px 10px;
+    }
+    #third {
+        text-align: left;
+        padding: 0px 780px 0px 10px;     
+    }
+    #img2 {
+        text-align: right;
+        padding: 0px 10px 0px 800px;
+    }
+    #fourth {
+        text-align: right;
+        padding: 0px 10px 0px 800px;
+    }
+    #img3 {
+    text-align: left;
+    padding: 0px 800px 0px 10px;
+    }
+    #fifth {
+        text-align: left;
+        padding: 0px 800px 0px 10px
+    }
+    #project {
+        text-align: center;
+        padding: 150px 10px 30px 10px;
+        font-size: 30px;
+    }
+.contact {
+    background-image: url("media/contact.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:local;
+    margin: 0%;
+
+}
+#contact1, #contact2, #contact3, #contact4{
+    color: white;
+    text-align: left;
+    margin: 0%;
+}
